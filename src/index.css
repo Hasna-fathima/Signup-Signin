@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    height: 30%;
+    border-bottom: 1px solid rgba(116, 69, 32, 0.63);
+    
+}
+.link{
+    color: rgba(116, 69, 32, 0.63);
+}
+body{
+    font-family: inter;
+}
+.logo{
+    width:100px;
+    max-height: auto;
+}
